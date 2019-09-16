@@ -33,7 +33,7 @@ a:hover {
 /* Section Styles */
 .main-nav {
   width: 100%;
-  background: black;
+  background: rgba(0, 0, 0, 0.9);
   min-height: 30px;
   padding: 10px;
   position: fixed;
