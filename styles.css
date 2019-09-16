@@ -27,7 +27,7 @@ a {
 }
 
 a:hover {
-  color: #6633ff;
+  color: #0399ff;
 }
 
 /* Section Styles */
@@ -98,7 +98,7 @@ header .profile-image {
 }
 
 header .profile-image:hover {
-  transform: scale(1.7);
+  transform: scale(1.8);
 }
 
 .tag {
@@ -241,6 +241,42 @@ a.social:hover {
   font-size: 3rem;
   margin: 10px;
 }
+
+.contact p {
+  text-align: left;
+}
+
+
+/* Contacts Page */
+.contact {
+  padding: 4rem;
+}
+
+.contact__row--col1,
+.contact__row--col2 {
+  margin: 0 2rem;
+}
+
+.contact__row--col1 {
+  width: 60%;
+}
+
+.contact__row--col2 {
+  width: 40%;
+}
+
+.contact__info {
+  padding: 0;
+}
+
+.contact__info li {
+  margin: 1rem;
+}
+
+.contact__info i {
+  margin-right: 1rem;
+}
+
 
 
 
