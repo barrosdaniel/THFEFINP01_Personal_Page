@@ -131,6 +131,10 @@ header .profile-image:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 
+.card h4 {
+  margin: 1rem 0 0;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
